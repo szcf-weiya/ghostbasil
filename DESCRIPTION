@@ -1,0 +1,21 @@
+Package: ghostbasil
+Title: GhostKnockoff + BASIL Framework
+Version: 0.1.3
+Authors@R: 
+    person("James", "Yang", email = "jy2816@stanford.com", role = c("aut", "cre"))
+Description: TODO.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: R (>= 3.6.0), Matrix (>= 1.0-6)
+LinkingTo: Rcpp, RcppEigen
+Imports: Rcpp, methods
+Suggests: knitr, rmarkdown, testthat (>= 3.0.0), qpdf
+SystemRequirements: GNU make
+VignetteBuilder: knitr
+Config/testthat/edition: 3
+NeedsCompilation: yes
+Packaged: 2024-12-05 04:15:18 UTC; weiya
+Author: James Yang [aut, cre]
+Maintainer: James Yang <jy2816@stanford.com>
