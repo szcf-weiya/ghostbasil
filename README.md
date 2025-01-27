@@ -1,3 +1,5 @@
+❗❗ **unzip from the compiled R package from https://github.com/JamesYang007/ghostbasil**
+
 # R GhostBASIL 
 
 This directory contains the `R` wrapper around `ghostbasil`.
